@@ -150,4 +150,3 @@ public static String deleteSub(String word, String target)
   }
   return word;
 }
-```
